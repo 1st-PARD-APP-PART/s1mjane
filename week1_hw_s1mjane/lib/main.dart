@@ -185,8 +185,8 @@ class _MyHomePageState extends State<MyHomePage> { // 기본 페이지 상태
                   child: GridView.count( // gridview : 가로
                     crossAxisCount: 3, // 가로에 3개씩
                     children: List.generate(9, (index) { // 총 9개
-                      return Card(
-                        child: Center( 
+                      return Card( // 카드 형태
+                        child: Center( // 중앙에 위치
                           child: Text("Item ${index+1}"),
                         ),
                       );
