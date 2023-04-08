@@ -59,6 +59,9 @@ class _MyPageState extends State<MyPage> {
               }
             );
           } else { // snapshot으로 data 받을 때 없는 경우
+          // 다뤄야 할 총 4가지 경우 : hasData, hasError, 기다리는 중, 데이터 없을 때
+          // 여기서 else는 hasData 빼고 3개 되는 중으로 코딩되었음
+          // 나중엔 hasError, wating?, 데이터없을 때 이렇게 자세하게 나누기!
             return const Center(child: CircularProgressIndicator(),); // 로딩중 모양
           }
         }
