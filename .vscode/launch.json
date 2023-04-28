@@ -1,0 +1,88 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ot_homework_s1mjane",
+            "cwd": "ot_homework_s1mjane",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ot_homework_s1mjane (profile mode)",
+            "cwd": "ot_homework_s1mjane",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ot_homework_s1mjane (release mode)",
+            "cwd": "ot_homework_s1mjane",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "week1_hw_s1mjane",
+            "cwd": "week1_hw_s1mjane",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "week1_hw_s1mjane (profile mode)",
+            "cwd": "week1_hw_s1mjane",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "week1_hw_s1mjane (release mode)",
+            "cwd": "week1_hw_s1mjane",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "week2_hw_s1mjane",
+            "cwd": "week2_hw_s1mjane",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "week2_hw_s1mjane (profile mode)",
+            "cwd": "week2_hw_s1mjane",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "week2_hw_s1mjane (release mode)",
+            "cwd": "week2_hw_s1mjane",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "week3_hw_s1mjane",
+            "cwd": "week3_hw_s1mjane",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "week3_hw_s1mjane (profile mode)",
+            "cwd": "week3_hw_s1mjane",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "week3_hw_s1mjane (release mode)",
+            "cwd": "week3_hw_s1mjane",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
